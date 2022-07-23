@@ -1,1 +1,1 @@
-This project is intended to help me practice html
+Odin Recipes is a practice project featuring a few select recipe pages.
